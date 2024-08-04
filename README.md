@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/_iamharrshit" target="blank"><img src="https://img.shields.io/twitter/follow/_iamharrshit?logo=twitter&style=for-the-badge" alt="_iamharrshit" /></a> </p>
 
-- 🌱 I’m currently learning **Web3, Blockchain, MERN Stack**
+- 🌱 I’m currently learning **GO, DSA, System Design **
 
 - 👨‍💻 All of my projects are available at [https://blockestate.vercel.app/](https://blockestate.vercel.app/)
 
-- 💬 Ask me about **React, MERN, Javascript, Web3, Blockchain**
+- 💬 Ask me about **Software Development and DSA**
 
 - 📫 How to reach me **harshitagrawal048@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/harshit-agarwal-326361191/](https://www.linkedin.com/in/harshit-agarwal-326361191/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/harshit-agarwal](https://www.linkedin.com/in/harshit-agarwal)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
