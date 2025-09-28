@@ -1,4 +1,4 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://www.linkedin.com/in/harshit-agarwal-326361191/)
+<!-- [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://www.linkedin.com/in/harshit-agarwal-326361191/) -->
 <h1 align="center">Hi 👋, I'm Harshit Agarwal</h1>
 <h3 align="center">Software Developer | GenAI Innovator | Backend Architect</h3>
 
